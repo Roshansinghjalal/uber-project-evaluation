@@ -62,3 +62,8 @@ The dataset used — `delhi Uber Ride.xlsx` — is a **synthetic dataset** gener
 - Built as a demo project for **Power BI dashboard development and storytelling**
 
 Feel free to fork, customize, or contribute to the project!
+
+🧑‍💻 Author
+** Roshan Singh Jalal **
+- 💼Linkedin: https://www.linkedin.com/feed/
+- 📧 Email: roshansinghjalal35@gmail.com
